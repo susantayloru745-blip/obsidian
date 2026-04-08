@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775626263967-4xo6w7ps3",
+  "title": "Choose and configure Obsidian plugins",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775626263973,
+  "updatedAt": 1775627253324,
+  "lastResponseAt": 1775627253324,
+  "sessionId": "3fb982eb-0844-4364-bb18-716eab2e8270",
+  "sdkSessionId": "3fb982eb-0844-4364-bb18-716eab2e8270",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 10528,
+    "cacheCreationInputTokens": 978,
+    "cacheReadInputTokens": 14813,
+    "contextWindow": 200000,
+    "contextTokens": 26319,
+    "percentage": 13
+  }
+}
